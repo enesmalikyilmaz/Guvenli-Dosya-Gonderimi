@@ -73,11 +73,11 @@ tkinter ile grafiksel kullanıcı arayüzü geliştirme
 
 📄 Rapor Özeti
 
-Giriş
+**Giriş**
 
 Bu proje, veri aktarımı sırasında şifreleme ve paket analizinin önemini göstermek amacıyla oluşturulmuştur. Geliştirilen sistem; AES şifreleme, TCP aktarımı, GUI, IP paketi işleme ve trafik analizi gibi modüllerden oluşur.
 
-Teknik Özellikler
+**Teknik Özellikler**
 
 AES EAX modunda güvenli şifreleme
 
@@ -89,7 +89,7 @@ iPerf3 ile performans ölçümü
 
 Wireshark ile ağ trafiği gözlemi
 
-Sınırlılıklar ve Geliştirme Alanları
+**Sınırlılıklar ve Geliştirme Alanları**
 
 Uygulama katmanında parçalama/birleştirme yapılmamıştır.
 
