@@ -58,6 +58,7 @@ Port: 5001
 Dosya ve anahtar dosyası seçildikten sonra Gönder tuşuna basılır.
 
 🧠 Öğrenilenler
+
 TCP üzerinden dosya gönderimi
 
 AES ile veri şifreleme ve bütünlük doğrulama
@@ -71,6 +72,7 @@ iPerf3 ile performans testi
 tkinter ile grafiksel kullanıcı arayüzü geliştirme
 
 📄 Rapor Özeti
+
 Giriş
 Bu proje, veri aktarımı sırasında şifreleme ve paket analizinin önemini göstermek amacıyla oluşturulmuştur. Geliştirilen sistem; AES şifreleme, TCP aktarımı, GUI, IP paketi işleme ve trafik analizi gibi modüllerden oluşur.
 
@@ -92,8 +94,7 @@ GUI yalnızca istemci tarafında uygulanmıştır.
 
 UDP desteği ve gelişmiş loglama eklenebilir.
 
-🧾 Lisans
-Bu proje akademik amaçla geliştirilmiştir ve açık kaynaklıdır.
+
 
 👨‍💻 Geliştirici
 Enes Malik Yılmaz
